@@ -1,5 +1,5 @@
 # Network Dismantling
-Using RL to dismantle utility networks. We also propose defense methods against dismantling attacks. The paper report can be found as paper.pdf.
+Using RL for Network Dismantling attacks and defenses. The paper report can be found as paper.pdf.
 
 ## Data
 In the global setting, one can set the <code>data_root</code> variable to indicate the location of the graphs to use. The graphs can be found in the original GDM repository
